@@ -1,18 +1,6 @@
 # Portfolio---Draft
 <!DOCTYPE html>
-
-
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Document</title>
-</head>
-<body>
-  
-</body>
-</html>
-<html lang="en">
+<html>
 <head>
 
     <meta charset="UTF-8">
@@ -20,8 +8,8 @@
     <title>Document</title>
     <link rel="stylesheet" href="Css.lol.css">
     <link rel="stylesheet" href="https://github.com/DerBottich/Draft.git">
-
 </head>
+
 <body>
 <h1>...</h1>
 <div id="Borderbox"></div>
