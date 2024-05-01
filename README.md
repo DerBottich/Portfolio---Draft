@@ -23,7 +23,7 @@
 
 </head>
 <body>
-<h1>Portfolio</h1>
+<h1>...</h1>
 <div id="Borderbox"></div>
 <div class="Path"></div>
 <!--style>
